@@ -2,8 +2,13 @@
 ===============
 
 - 19/12/1998 Born
+- 09/2004-07/2010 Primary School
+- 09/2010-07/2014 Boooring time in Junior High school
+- 09/2014-07/2016 Senior High School
+- 12/09/2016 Started a Programming Associate Degree
+- 14/09/2016 Dropped out
 - 15/02/2014 Launched [Fanthom Studios](http://FanthomStudios.com "Fanthom Studios")
-- 15/02/2014 Launched [Flashlight](https://play.google.com/store/apps/details?id=com.mikelcalvo.linterna "Flashlight")
+- 15/02/2014 Launched [Flashlight (My first app)](https://play.google.com/store/apps/details?id=com.mikelcalvo.linterna "Flashlight")
 - 15/02/2014 Launched [Did you know?](https://play.google.com/store/apps/details?id=com.MikelCalvo.sabiasque "Did you know?")
 - 19/02/2014 Registered [www.FanthomStudios.com](http://FanthomStudios.com "Fanthom Studios")
 - 15/02/2014 Launched League of Legends Jokes
@@ -21,10 +26,9 @@
 - 19/04/2016 Had the idea of Graham
 - 20/04/2016-~ Developed Graham
 - 06/06/2016 Removed League of Legends Jokes
-- 12/09/2016 Started a Programming Certificate of Higher Education
-- 14/09/2016 Dropped out
 - 01/10/2016 Had the idea of WakeMe!
 - 01/10/2016-05/10/2016 Developed WakeMe!
 - 05/10/2016 Removed League of Legends Guides
 - 06/10/2016 Launched [WakeMe!](https://play.google.com/store/apps/details?id=com.fanthomstudios.wakeme "WakeMe!")
+- 19/01/2017 Registered [www.MikelCalvo.me](http://MikelCalvo.me "MikelCalvo.me")
 - 19/01/2017 Created this timeline
