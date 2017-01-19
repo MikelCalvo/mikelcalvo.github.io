@@ -12,9 +12,9 @@
 /* Basic */
 
 	body {
-		background-image: url("../../images/bg<?php echo rand(1,6); ?>.jpg");
-		background-repeat:	no-repeat;
-		background-size:	cover;
+		background-image:		url('../../images/bg.jpg');
+		background-repeat:		no-repeat;
+		background-size:		cover;
 		background-position:	bottom center;
 		background-attachment:	fixed;
 
