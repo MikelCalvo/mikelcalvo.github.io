@@ -15,7 +15,6 @@
 - 06/12/2015 Launched [Slide The Ball](https://play.google.com/store/apps/details?id=com.fanthomstudios.slidetheball "Slide The Ball")
 - 27/02/2016 Had the idea of Habits
 - 02/03/2016-04/04/2016 Developed Habits
-- 31/03/2016 Created this timeline
 - 04/04/2016 Had the idea of Power Nap
 - 06/04/2016-10/04/2016 Developed Power Nap
 - 10/04/2016 Launched [Power Nap](https://play.google.com/store/apps/details?id=com.fanthomstudios.powernap "Power Nap") 
@@ -26,3 +25,4 @@
 - 01/10/2016-05/10/2016 Developed WakeMe!
 - 05/10/2016 Removed League of Legends Guides
 - 06/10/2016 Launched [WakeMe!](https://play.google.com/store/apps/details?id=com.fanthomstudios.wakeme "WakeMe!")
+- 19/01/2017 Created this timeline
