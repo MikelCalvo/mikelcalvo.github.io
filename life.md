@@ -21,6 +21,8 @@
 - 19/04/2016 Had the idea of Graham
 - 20/04/2016-~ Developed Graham
 - 06/06/2016 Removed League of Legends Jokes
+- 12/09/2016 Started a Programming Certificate of Higher Education
+- 14/09/2016 Dropped out
 - 01/10/2016 Had the idea of WakeMe!
 - 01/10/2016-05/10/2016 Developed WakeMe!
 - 05/10/2016 Removed League of Legends Guides
