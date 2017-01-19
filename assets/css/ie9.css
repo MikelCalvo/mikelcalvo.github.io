@@ -7,7 +7,7 @@
 /* Basic */
 
 	body {
-		background-image: url(../../images/<?php echo $selectedBg; ?>);
+		background-image: url(https://mikelcalvo.github.io/mikel.me/images/<?php echo $selectedBg; ?>);
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: bottom center;
