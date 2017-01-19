@@ -30,5 +30,6 @@
 - 01/10/2016-05/10/2016 Developed WakeMe!
 - 05/10/2016 Removed League of Legends Guides
 - 06/10/2016 Launched [WakeMe!](https://play.google.com/store/apps/details?id=com.fanthomstudios.wakeme "WakeMe!")
+- 01/11/2016-15/01/2017 First (non-technical) job
 - 19/01/2017 Registered [www.MikelCalvo.me](http://MikelCalvo.me "MikelCalvo.me")
 - 19/01/2017 Created this timeline
