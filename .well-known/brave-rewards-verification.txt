@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mikelcalvo.net
+Token: c99a6bc64241862e806a05ad447ccd2f1da052646bc98403e9e317ad7b5679dc
