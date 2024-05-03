@@ -9,15 +9,8 @@
     <title>Mikel Calvo</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
     <link rel="stylesheet" href="assets/css/main.css" />
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
-    <!--[if lte IE 9
-      ]><link rel="stylesheet" href="assets/css/ie9.css"
-    /><![endif]-->
-    <!--[if lte IE 8
-      ]><link rel="stylesheet" href="assets/css/ie8.css"
-    /><![endif]-->
     <noscript
       ><link rel="stylesheet" href="assets/css/noscript.css"
     /></noscript>
@@ -31,7 +24,7 @@
           <span class="avatar"
             ><img
               id="profileImage"
-              src="https://raw.githubusercontent.com/MikelCalvo/mikelcalvo.me/master/images/avatar.jpg"
+              src="https://mikelcalvo.net/images/avatar.jpg"
               alt=""
               height="200"
               width="200"
@@ -128,14 +121,21 @@
     </script>
 
     <script>
+      // (?)
       window.onload = function () {
         var img = document.getElementById("profileImage");
         var randomNum = Math.random();
-        if (randomNum <= 0.2) {
-          img.src =
-            "https://raw.githubusercontent.com/MikelCalvo/mikelcalvo.me/master/images/artifact.gif";
+        if (randomNum <= 0.15) {
+          img.src = "https://mikelcalvo.net/images/artifact.gif";
         }
       };
+    </script>
+
+    <script>
+      // Custom simple analytics
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", "https://lab.mikelcalvo.net/homePageView", true);
+      xhr.send();
     </script>
   </body>
 </html>
