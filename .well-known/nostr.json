@@ -1,0 +1,14 @@
+{
+  "names": {
+    "nostr": "91b14182439b1ab73ca0d5300e0495b15e4a88a1b49c3276665cdf62ef00a164"
+  },
+  "relays": {
+    "91b14182439b1ab73ca0d5300e0495b15e4a88a1b49c3276665cdf62ef00a164": [
+      "wss://relay.mostr.pub",
+      "wss://relay.damus.io",
+      "wss://nostr.mom",
+      "wss://relay.primal.net",
+      "wss://relay.minibits.cash"
+    ]
+  }
+}
